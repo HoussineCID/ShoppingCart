@@ -1,1 +1,4 @@
 # ShoppingCart
+Reactjs 
+Vite
+Typescript
