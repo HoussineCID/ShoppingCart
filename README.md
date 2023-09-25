@@ -1,4 +1,5 @@
 # ShoppingCart
-Reactjs 
+
+Reactjs
 Vite
 Typescript
